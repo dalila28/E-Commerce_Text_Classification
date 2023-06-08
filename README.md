@@ -40,6 +40,19 @@ e-commerce is the platform where we can have information regarding latest market
 
 ### 3. Results
 
+1. This is LSTM model architecture with batch size = 64
+![model_architecture](https://github.com/dalila28/E-Commerce_Text_Classification/blob/main/images/model_architecture.png)
+
+2. Below are the snapshot of the model performance under 100 epochs, which achived accuracy about 99%
+![model_performance1](https://github.com/dalila28/E-Commerce_Text_Classification/blob/main/images/mode_performance1.png)
+![model_performance2](https://github.com/dalila28/E-Commerce_Text_Classification/blob/main/images/model_performance2.png)
+
+3. Tensorboard snapshot showing graph of accuracy for train & test , loss for train & test
+![tensorboard](https://github.com/dalila28/E-Commerce_Text_Classification/blob/main/images/tensorboard.png)
+
+4. Figure below showing the matplotlib graph comparison between train and test accuracy.
+![train_vs_test](https://github.com/dalila28/E-Commerce_Text_Classification/blob/main/images/train_vs_test.png)
+
 ### 4. Credits
 1. Kaggle. (n.d.). Ecommerce Text Classification. Retrieved June, 2023, from https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
 2. For creating tensorboard, I refer tutorial from https://www.tensorflow.org/tensorboard/get_started
