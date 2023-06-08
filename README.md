@@ -1,4 +1,4 @@
-# e-commerce_product_classification
+# E-Commerce_Text_Classification 
 
 ### 1. Project Description
 e-commerce is the platform where we can have information regarding latest market trends. By using any text documents that are available in the e-commerce platform we can synthesis beneficial information from there.Therefore, deep learning model such as Long Short Term Memory(LSTM) is used to make classification of texts. We never imagine that texts can be used to make prediction right? but with deep learning this can happen. The aim of this project is to make classification for texts in the database and categorize them into 'Household','Books', 'Clothing & Accesories' and 'Electronic'.
@@ -37,7 +37,10 @@ e-commerce is the platform where we can have information regarding latest market
          * Inside C:\Users\< USERNAME > \Anaconda3\envs\tensorflow\TensorFlow\models\research
          * python object_detection/builders/model_builder_tf2_test.py The terminal should show OK if it passes all the tests
     * Open Visual Studio Code then open folder of downloaded file, search .py file then run it.
+
+### 3. Results
+
 ### 4. Credits
-1. The data on the COVID-19 epidemic in Malaysia is sourced from the official repository, https://github.com/MoH-Malaysia/covid19-public which is powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
+1. Kaggle. (n.d.). Ecommerce Text Classification. Retrieved June, 2023, from https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
 2. For creating tensorboard, I refer tutorial from https://www.tensorflow.org/tensorboard/get_started
 3. Regarding the tensorflow API that I used in my project, I always refer to this documentation https://www.tensorflow.org/api_docs/python/tf/all_symbols
